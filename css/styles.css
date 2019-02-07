@@ -1,0 +1,14 @@
+h2 {
+  font-style: italic;
+  color: #000080;
+  font-size: 35px;
+  text-align: center;
+}
+
+body {
+  background-color: #008080;
+  font-family: fantasy;
+}
+p {
+  color: #EF1414;
+}
